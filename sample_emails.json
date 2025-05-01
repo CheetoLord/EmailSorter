@@ -1,0 +1,35 @@
+{
+    "Emails": [
+        {
+            "from": "housing@calvin.edu",
+            "subj": "housing",
+            "body": "Sign up for housing next year! Deadline is: 05/05/2025"
+        },
+        {
+            "from": "knitting@calvin.edu",
+            "subj": "knitting club meeting",
+            "body": "Knitting club meeting this week, be sure to bring your own yarn!"
+        },
+        {
+            "from": "prof@calvin.edu",
+            "subj": "extension",
+            "body": "Dear student, I have agreed to extend the deadline for your presentation due to your appointment."
+        },
+        {
+            "from": "announcements@calvin.edu",
+            "subj": "No class friday!",
+            "body": "It's easter week! No classes on friday! Enjoy the time off :)"
+        },
+        {
+            "from": "no-reply@calvin.edu",
+            "subj": "URGENT BILLING",
+            "body": "URGENT!!! Your tuition from 3 years ago is not yet paid off - if you do not pay in 0.22 minutes, we will be forced to charge you interest of 1%. Ammount owed: $0.17 (+ late fees= $21,300,409.37)"
+        },
+        {
+            "from": "recruitment@hope.edu",
+            "subj": "Hope University",
+            "body": "Apply now! your application is valued"
+        }
+    ],
+    "UserPreferences": "I attend Calvin University as a full-time student. I am a Junior. I am not in any clubs. I want to know about homework updates, and other class-related notices. My housing is dealt with for next year already."
+}
