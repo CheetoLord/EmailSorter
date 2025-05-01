@@ -1,0 +1,15 @@
+I believe this project satisfies the following objectives:
+[CI-LLM-Failures] - I had to face the LLM giving me some very biased output, and am looking for a solution (it thinks almost every email does not matter at all, and assigns it a rating of 1)
+[NC-Embeddings] - I directly interact with the tokens and logits of the model to make sure that even if the model would like to give an output that isn't an integer from 1 to 5, I will only check for these tokens and thus never have to deal with strange results.
+[NC-TransformerDataFlow] - same as above
+[MS-LLM-Generation] - same as above
+[MS-LLM-API] - the app uses an LLM api as the core of its operation
+
+I think that this project would fit well into my portfolio, as it shows I can integrate many unique challenging concepts into one project. Some of the challenging concepts integrated include: Machine Learning, multithreading, API calls, OAuth usage, and intuitive GUI construction. I also think that having a fully-functional, user-friendly app would be monumental to add to my portfolio, especially if it ends up with a user base.
+
+I asked ChatGPT to generate some questions as if it were interviewing me about this project. Here is what it came up with, as well as my answers to them:
+How does your app determine “relevance” in an email? What criteria or signals are used? The app determines relevance by giving a structured prompt to an AI that includes details about the user (written by the user), as well as the email in question. The prompt also includes details about how to rank the email.
+Can you walk me through the end-to-end flow, from user authentication to presenting ranked emails? This product is not yet finished, so there are a few differences as to what would really happen as to what it currently does. What should happen is that the app asks for login credentials for the account the user has made with the app. These would then be verified with a web server, which would ping a database. If the credentials are correct, the server would check for a refresh token, or if none exists, redirect the user to google’s login / select account page. Then, it would use the token to query Google’s gmail API for the user’s emails. The emails are then fed into an AI, with each email getting it’s own thread. As the AI finishes in any given thread, it displays the rating of the email to the user.
+
+I was the sole contributor to this project
+
