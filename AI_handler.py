@@ -79,6 +79,7 @@ def compute_rating_for_all(emails, user_pref=""):
     
     for i, email in enumerate(emails):
         # dispatch a thread to compute the rating for the current email
+        time.sleep(0.1)  # sleep for a bit to avoid overwhelming the server
         thread = threading.Thread(target=compute_rating, args=(email, i, user_pref))
         thread.daemon = True
         thread.start()
@@ -104,8 +105,10 @@ if __name__ == "__main__":
     
     # run test
     total_diff = 0
-    for i, email in enumerate(compute_rating_for_all(emails, user_pref)):
-        print(f"Rating {i+1}/{len(emails)}: {results[i]} (real: {email['real_rating']})")
-        total_diff += abs(results[i] - email["real_rating"])
+    for i, rating in enumerate(compute_rating_for_all(emails, user_pref)):
+        print(i, rating)
+        print(f"Rating {i+1}/{len(emails)}: {results[i]} (real: {emails[i]['real_rating']})")
+        total_diff += abs(results[i] - emails[i]["real_rating"])
     print(f"Average difference: {total_diff/len(emails)}")
+    print(f"Total difference: {total_diff}")
     print("Done")
