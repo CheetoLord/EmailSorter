@@ -106,7 +106,6 @@ if __name__ == "__main__":
     # run test
     total_diff = 0
     for i, rating in enumerate(compute_rating_for_all(emails, user_pref)):
-        print(i, rating)
         print(f"Rating {i+1}/{len(emails)}: {results[i]} (real: {emails[i]['real_rating']})")
         total_diff += abs(results[i] - emails[i]["real_rating"])
     print(f"Average difference: {total_diff/len(emails)}")
