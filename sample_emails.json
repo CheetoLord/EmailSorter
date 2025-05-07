@@ -1,35 +1,77 @@
 {
     "Emails": [
         {
-            "from": "housing@calvin.edu",
-            "subj": "housing",
-            "body": "Sign up for housing next year! Deadline is: 05/05/2025"
+            "from": "OneDrive <no-reply@onedrive.com>",
+            "subj": "Many files were recently deleted from your OneDrive",
+            "body": "Files are permanently removed from your OneDrive recycle bin 30 days after they were deleted\nHi Peter Lund,\n\nWe noticed that you recently deleted a large number of files from your OneDrive.\n\nWhen files are deleted, they are moved to your OneDrive recycle bin. If you don't restore deleted files from the OneDrive recycle bin, they are permanently deleted after 30 days.\n\nIf you want to restore these files, go to the OneDrive recycle bin, select what you want to restore, and click the Restore button.\n\nYou can ignore this mail if you meant to get rid of these files.",
+            "real_rating": 3
         },
         {
-            "from": "knitting@calvin.edu",
-            "subj": "knitting club meeting",
-            "body": "Knitting club meeting this week, be sure to bring your own yarn!"
+            "from": "The Weekly Sporcle <do-not-reply@sporcle.com>",
+            "subj": "The Weekly Sporcle for May 4, 2025",
+            "body": "Hi CheetoLord211738,\n\nHere's what fellow Sporclers loved the most last week-check them out! Plus, don't miss your chance to earn this week's holiday badges.\n\nLast Week's Top Quizzes\nHere are the most played quizzes from the past week:\nErase Europe (Few Outlines) (Geography)\nWe're giving you a few hints.\nObscure Knowledge - Rhymes with 'JUMP' (Language)\nMight as well jump!\nWhat's It Stand For? NBA (Sports)\nIf you know what NBA stands for, you're well on the way.\nCriteria Countries (North America) II (Geography)\nHow well do you know the continent that's home to Sporcle HQ?\nGroup Clicking: World - No Outlines Minefield (Geography)\nPro-tip: skip around until you can get the really big countries first.\n10 Easy US Cities in 15 (Geography)\nIf only traffic in these cities were as quick.\nHoliday Badges This Week\nThese badges can only be earned for a limited time!\nLet the Wookiee Win (May 4, 2025)\nCinco de Mayo (May 5, 2025)\nWhacking Day (May 10, 2025)",
+            "real_rating": 1
         },
         {
-            "from": "prof@calvin.edu",
-            "subj": "extension",
-            "body": "Dear student, I have agreed to extend the deadline for your presentation due to your appointment."
+            "from": "Dominos@dominosemail.smg.com",
+            "subj": "Your Chance to Win a $25 Domino's e-Gift Card!",
+            "body": "",
+            "real_rating": 2
         },
         {
-            "from": "announcements@calvin.edu",
-            "subj": "No class friday!",
-            "body": "It's easter week! No classes on friday! Enjoy the time off :)"
+            "from": "Dominos Pizza <exclusive@e-exclusive.dominos.com>",
+            "subj": "Domino's Customer Satisfaction Survey",
+            "body": "Please tell us about your recent experience with us so that we can better serve you. Thanks!\n\nHow likely are you to recommend \nDomino's to a friend?\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nNot Likely\tVery Likely\nSurvey expires in 7 days.\nLEGAL STUFF: This email address is not monitored, so replies to this email will not be read. To provide additional feedback contact Dominos Customer Service.\n\nYou are receiving this email because of your relationship with us. If you no longer wish to receive these types of emails you may unsubscribe here.\n\n2025 Dominos IP Holder LLC. Dominos, Dominos Pizza and the modular logo are registered trademarks of Dominos IP Holder LLC.\n\nDomino's Pizza LLC\n30 Frank Lloyd Wright Dr.\nAnn Arbor, MI 48106\n",
+            "real_rating": 1
         },
         {
-            "from": "no-reply@calvin.edu",
-            "subj": "URGENT BILLING",
-            "body": "URGENT!!! Your tuition from 3 years ago is not yet paid off - if you do not pay in 0.22 minutes, we will be forced to charge you interest of 1%. Ammount owed: $0.17 (+ late fees= $21,300,409.37)"
+            "from": "Pinterest <recommendations@discover.pinterest.com>",
+            "subj": "Cheeto, you'd vibe with this",
+            "body": "350 + exterior ho...\n\nPull Out Pantry\n\n25 Amazing Facts ...\n\nORC Week 4: Frame...\n\n\n\n\n",
+            "real_rating": 1
         },
         {
-            "from": "recruitment@hope.edu",
-            "subj": "Hope University",
-            "body": "Apply now! your application is valued"
+            "from": "Sarah from pdfFiller <sarah@pdffiller.com>",
+            "subj": "More than PDF editing: share via LinkToFill",
+            "body": "More than PDF editing  create a link to your documents and share it\n\nIf you need your customers to fill out documents online, share a LinkToFill with them. Customers can fill out and submit documents without having to print, fill out by hand, mail, or fax documents.\n\nStart using pdfFiller\nCreate a link to a document using the LinkToFill feature:",
+            "real_rating": 1
+        },
+        {
+            "from": "Matt Palmer <matt@mail.replit.com>",
+            "subj": "What's new in Replit: auth, new tutorials, and more!",
+            "body": "\n\nFriday, May 2, 2025\n\nHey it's Matt!\n\nThey say April showers bring May flowersApril was a busy month at Replit & May is shaping up to be a superbloom. \n\nApril's product updates include a mix of new features and polish:\n\nReplit Auth: add users and login, instantly\nA new homepage: designed to spark inspiration & innovation\nAgent improvements: better checkpoints & performance improvements\nReplit improvements: improved secrets syncing, polish, & bug fixes\nand much, much more!\n\n Add users & login with just a click\n\nReplit Auth is now out for all. \n\nWhat's auth? Well, it's a way to add users / login to your apps. Typically, auth is a hard problem... That's why there are entire industries dedicated to it. \n\nReplit Auth is backed by our services, so we handle things like password / email reset, storing user data, security, and more. \n\nGet started by adding the following to your Agent prompt: Add Replit Auth. \n\n Improved checkpoints\n\nCheckpoints just got a whole lot better: simpler messages, a checkpoint preview, and a new design.\n\nWe're making it easier to understand where you've been so you can move forward and build better features.\n\n New home, who dis?\n\nWe've rolled out our new homepage and it's pretty neat.\n\nHead to a logged-out replit.com to give it a look.\n\n Other new features\nBetter secrets sync: We've improved secrets syncing between development and deployments, so you'll never have to worry about mismatched values\nMobile app onboarding: If you haven't tried Replit Mobile, we've got a new onboarding and improved design to help you ship on the go!\nBetter file uploads: You'll notice our file drag-n-drop is better than ever. Upload some images to your project to see it in action\nTeams improvements: For our B2B users, we've got new features rolling out for all teams, including better invites, advanced privacy settings, and more. If you're interested in Replit at work, check it out\nPerformance improvements: Backend performance and reliability improvements, bringing faster Agent responses. We also match integrations better in existing chats with Agent\n Cheat Sheet\nYou can get quite a bit from Replit with only natural language...\n\n...BUT I've created a cheat sheet for our power users that goes over everythingfrom Replit basics to extras & advanced tips. You can find the high res version by clicking the image below \n\n\n Videos & tutorials\nI've started dropping some shorter bite-sized videos for learning about Replit features. I'm shipping them on the Replit YouTube as well as my own channel.\n\nYou can find two of the latest (Checkpoints + Secrets) below. \n\n\tPlay\t \n\tPlay\t \n5 Skills for Vibe Coding: Learn my 5 skills for good outcomes in vibe coding:\n\nProcedural Thinking: Planning your app like a product manager and engineer\nLeveraging Frameworks: Knowing which tools to use and asking the AI for help\nBuilding in Checkpoints: Making incremental progress and using AI snapshots\nDebugging Methodically: Systematically finding and fixing errors with AI assistance\nMastering Context: Giving AI the right information (and only the right information)\n\tPlay\t \nIf you've already built an amazing app with Replit, share it with us to be featured in an upcoming email.\n\n Looking Ahead\nThe ways we build continue to change. We're at the forefront of a shifting landscapeit can be both exciting and daunting.\n\nEvery day I wake up excited to keep creating, learning, & sharing.\n\nI genuinely hope it can help you make sense of all these new tools and ideas. Let's keep creating apps and moving forward.\n\nUntil next time,\n\nMatt @ Replit",
+            "real_rating": 1
+        },
+        {
+            "from": "Replit <contact@mail.replit.com> ",
+            "subj": "[Welcome to Replit] The next billion software creators",
+            "body": "Welcome to Replit!\nWere on a mission to bring the next billion software creators online. If more people can create apps and websites, more people can independently create, innovate, and build wealth on the internet  no matter where they are in the world. By using Replit, youre becoming part of that future.\n\n \n\nMeet Replit Agent: Your App Creation Partner\n\nTo help make your creator journey as seamless as possible, we built Replit Agent  an AI-powered assistant to help bring your ideas to life faster than ever while you build your skills with our Vibe Coding 101 course.\n\n \n\nIn this short video, we walk through how Replit Agent can help you:\n\n Start Creating Instantly: Replit Agent takes care of the setup, so you can bring your ideas to life.\n\n AI-Powered Assistance: Think of Replit Agent as your team of software engineers on demand, helping with everything from simple fixes to complex projects.\n\n Inspired Creation: See an app or website that inspires you? Simply screenshot, upload, and Agent will build it\n\n Easy Hosting: When youre ready to show your app, quickly bring your project to life online. Replit Agent makes going live much easier. \n\n \n\nGetting Started with Replit\n\nLogin to Replit: Start exploring the platform and experiment with your first code.\n\nMeet Replit Agent: Sign up for Core, and let Replit Agent guide you through creation, setup, and even deployment.\n\nWatch the Agent Launch Video: Take a closer look at how Replit Agent can transform your workflow.\n\n \n\nWere excited to see where this journey takes you. If you ever have questions or need a hand, our team and the Replit community are here to help. Together, were building a future where anyone can create an app and were thrilled to have you along for the ride.\n\n \n\nHappy Building!\n\nThe Replit Team",
+            "real_rating": 1
+        },
+        {
+            "from": "bostonscientific-jobnotification@noreply.jobs2web.com ",
+            "subj": "New jobs posted from jobs.bostonscientific.com",
+            "body": "The following jobs matched your search criteria at Boston Scientific and can be found at jobs.bostonscientific.com.\n\nYour Agent/Keywords:\nCDx Software Engineering Intern 2025, St. Paul MN US\nClick to edit\n\nJob Matches: (Click to view and apply to any jobs)\nPackaging Co-op: Summer/Fall, 2025 and Winter/Spring 2026 - St. Paul, MN, US\nDBS Field Clinical Representative II - Minneapolis/Rochester, MN - Minneapolis, MN, US, 55400\n\n\nBoston Scientific has been a global leader in medical devices for over three decades. Everyone here is working towards one goal: to push the boundaries of science to overcome the challenges that matter most.\n\nFinding people with the heart, imagination and drive to help improve lives isnt easy. We encourage you to forward this message to people in your personal and professional networks who may be ready to take the next step in their careers.",
+            "real_rating": 4
+        },
+        {
+            "from": "Chantal LaFee <CLaFee@racmn.com>",
+            "subj": "RAC - Cabana Interview",
+            "body": "Hi Peter,\n\nIm Chantal LaFee, The Market Director at the Rochester Athletic Club. In the Summer, I am also in charge of running the Cabana.  The Cabana opens May 24th and runs till September 1st.  Cabana Hours are 11:00 a.m. to 7:00 p.m. every day.  We will start training for the Cabana in early May 2025. I want to invite you in for an interview. \n\nInterview Times are below\n\nThursday, May 1 or May 5\n\n1:30 p.m.\n\n2:00 p.m.\n\n2:30 p.m.\n\n3:00 p.m.\n\n3:30 p.m.\n\nFriday, May 2 or May 6\n\n3:00 p.m.\n\n4:00 p.m.\n\n4:30 p.m.\n\nPlease let me know what time works for you, so that I can get you scheduled for an interview. There are multiple candidates, so please email me back as soon as possible with your date and time. If these times do not work for you, please email me back a time and date that does and I will see if I can accommodate it.\n\nThank you,\n\nChantal LaFee",
+            "real_rating": 5
+        },
+        {
+            "from": "Jake Eyes (via Patreon) <bingo@patreon.com>",
+            "subj": "May 2025 Production Update",
+            "body": "May 2025 Production Update\n  View in app\n\n***********************************************************************************\n\n***********************************************************************************\n\nMy next big 50 Ways video is going to be about Elden Ring, so the first thing I need to do to make that video is beat it. I spent the first half of April nearly finishing Elden Ring. The only thing left for me to do now is beat the final boss, but I dont think I necessarily need to for the video, so I might not bother.\n\nI said in an earlier video this year that I was going to try to release a smaller video every month, so once the second half of April rolled around, I got to work on the next 50 Ways to live video. I finished the script, recorded and edited the dialogue, recorded and edited the first half of the video, and built the set for the second half. I still need to record and edit that second half before that video is ready to publish, so thats what Im going to do next. After that, Ill get back to work on the Elden Ring 50 Ways to Die video.\n\nI also mentioned that I would try uploading clips to TikTok to see if I could get an audience over there. I uploaded a few of my favorite moments from the 50 Ways series on TikTok and none of them got any views whatsoever. It seems to me that getting anyone to look at your videos on TikTok requires more than just uploading them, but I dont feel like I have the time to experiment with search engine optimization right now, so Im going to table that strategy for now.",
+            "real_rating": 3
+        },
+        {
+            "from": "Kwik Careers <opportunities@careeralerts.kwiktrip.com>",
+            "subj": "Kwik Trip Hiring Event - TODAY!",
+            "body": "We are hiring for store #418 in Rochester!\n\nCome join our growing team! Great pay, bonuses, benefits, and internal advancement and Next Day Pay! \n\nWe will be holding Walk In Interviews, where you are invited to stop in for an immediate interview with a leader. Please join us! \n\nWhere: Kwik Trip #418\nAddress: 3531 9th St NW Rochester, MN 55901\nWhen: TODAY!\nTime: 10a-2p\n\nHiring for Full-Time and Part-Time Coworkers for a variety of positions including Kitchen, Register and Leadership\n\nWe are hiring immediately to start training right away! ",
+            "real_rating": 4
         }
     ],
-    "UserPreferences": "I attend Calvin University as a full-time student. I am a Junior. I am not in any clubs. I want to know about homework updates, and other class-related notices. My housing is dealt with for next year already."
+    "UserPreferences": "I attend Calvin University as a full-time student. I am a Junior. I am not in any clubs. I want to know about homework updates, and other class-related notices. My housing is dealt with for next year already. I am not particularly interested in newsletters. I am currently searching for a job."
 }

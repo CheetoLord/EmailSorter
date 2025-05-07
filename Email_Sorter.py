@@ -61,6 +61,7 @@ def setup(root):
         "InProgress1": ImageTk.PhotoImage(Image.open("rating_icons/InProgress1.png")),
         "InProgress2": ImageTk.PhotoImage(Image.open("rating_icons/InProgress2.png")),
         "InProgress3": ImageTk.PhotoImage(Image.open("rating_icons/InProgress3.png")),
+        "0": ImageTk.PhotoImage(Image.open("rating_icons/Confused.png")),
         "1": ImageTk.PhotoImage(Image.open("rating_icons/None.png")),
         "2": ImageTk.PhotoImage(Image.open("rating_icons/Low.png")),
         "3": ImageTk.PhotoImage(Image.open("rating_icons/Normal.png")),
@@ -168,10 +169,25 @@ def main_screen(root, token, email="example@gmail.com"):
     mail_list.pack(side="left", fill="both", expand=True)
     main_elements["mail_list"] = mail_list
     
+    # Create a frame inside the canvas to hold the email items
+    mail_list_inner_frame = tk.Frame(mail_list)
+    mail_list_inner_frame.bind(
+        "<Configure>", lambda e: mail_list.config(scrollregion=mail_list.bbox("all"))
+    )
+    mail_list.create_window((0, 0), window=mail_list_inner_frame, anchor="nw")
+
+    # Configure the scrollbar to control the canvas
     mail_list_scrollbar.config(command=mail_list.yview)
+
+    # Enable scrolling with the mouse wheel
+    def _on_mouse_wheel(event):
+        mail_list.yview_scroll(-1 * int(event.delta / 120), "units")
+
+    mail_list.bind_all("<MouseWheel>", _on_mouse_wheel)
+
     
     for i, email in enumerate(emails):
-        email_frame = tk.Frame(mail_list, bg=BGcolor, bd=1, relief="solid")
+        email_frame = tk.Frame(mail_list_inner_frame, bg=BGcolor, bd=1, relief="solid")
         email_frame.pack(fill="x", padx=5, pady=5)
         main_elements["email_frame" + str(i)] = email_frame
         
